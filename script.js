@@ -83,5 +83,5 @@ equalsButton.addEventListener('click', function() {
 });
 
 function printILY(){
-  document.getElementById("output-value").innerText="Love You 💖";
+  document.getElementById("output-value").innerText="I Miss You 💖";
 }
